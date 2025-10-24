@@ -46,6 +46,6 @@ It provides data-driven insights into viewership behavior, skill demand, and ins
 
 ## 👨‍💻 Author - Yogesh Kumar 
 📧 **yk8459711@gmail.com**  
-💼 **https://www.linkedin.com/jobs/search?keywords=Data%20Science&location=New%20Delhi%2C%20Delhi%2C%20India&geoId=115918471&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0**  
+💼 **[https://www.linkedin.com/jobs/search?keywords=Data%20Science&location=New%20Delhi%2C%20Delhi%2C%20India&geoId=115918471&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0](https://www.linkedin.com/in/yogesh-kumar-362324298)**  
 
 ---
